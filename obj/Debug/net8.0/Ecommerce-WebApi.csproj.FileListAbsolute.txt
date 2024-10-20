@@ -31,3 +31,4 @@ C:\Users\ASUS\Ecommerce-WebApi\obj\Debug\net8.0\refint\Ecommerce-WebApi.dll
 C:\Users\ASUS\Ecommerce-WebApi\obj\Debug\net8.0\Ecommerce-WebApi.pdb
 C:\Users\ASUS\Ecommerce-WebApi\obj\Debug\net8.0\Ecommerce-WebApi.genruntimeconfig.cache
 C:\Users\ASUS\Ecommerce-WebApi\obj\Debug\net8.0\ref\Ecommerce-WebApi.dll
+C:\Users\ASUS\Ecommerce-WebApi\obj\Debug\net8.0\Ecommerce-WebApi.sourcelink.json
